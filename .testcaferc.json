@@ -1,0 +1,7 @@
+{
+    "screenshotPath":"./screenshots",
+    "takeScreenshotsOnFails": true,
+    "screenshotPathPattern":"${DATE}_${TIME}/${FIXTURE}.png",
+    "debugOnFail": true,
+    "speed": 0.1
+}

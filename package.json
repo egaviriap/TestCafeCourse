@@ -1,0 +1,15 @@
+{
+  "name": "testcafeclasses",
+  "version": "1.0.0",
+  "description": "Automation",
+  "main": "index.js",
+  "scripts": {
+    "test:chrome": "testcafe chrome ./tests",
+    "test:firefox": "testcafe firefox ./tests"
+  },
+  "author": "Esneider Gaviria",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.5.0"
+  }
+}
